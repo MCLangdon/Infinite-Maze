@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f3f55f44fd6dac44eb16d07f0095a957
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mazeRow: {fileID: 4650910202801334, guid: 06f2939577a7d064aa20a608cacb1f95, type: 2}
+  - nsMazeWall: {fileID: 4409111017819632, guid: 1d17227b3b07c7c40867463a064aead2,
+      type: 2}
+  - ewMazeWall: {fileID: 4941715565813800, guid: 926849305a3f3c249bfaa6130464d2d9,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
